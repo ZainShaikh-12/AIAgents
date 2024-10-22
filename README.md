@@ -1,4 +1,4 @@
-Hello, my name is Zain Shaikh.I will walk you through a GitHub repository I’ve developed, which showcases advanced OpenAI/LLM technologies. This repository utilizes the LangChain and LangGraph frameworks to create AI agents capable of handling sophisticated tasks in a conversational AI setting.
+Hello, my name is Zain Shaikh.I will walk you through a GitHub repository I’ve developed, which showcases advanced LLM technologies. This repository utilizes the LangChain and LangGraph frameworks to create AI agents capable of handling sophisticated tasks in a conversational AI setting.
 
 Overview of the Project:
 
